@@ -2,4 +2,4 @@
 
 - 🌱 I’m currently learning Java QA Automation
 - 📫 How to reach me: evgenia_lozovik@mail.ru
-- 👩‍💻 Know about my experience [LinkedIn]ttps://www.linkedin.com/in/evgeniia-liasheva-36a379132/)]
+- 👩‍💻 Know about my experience [LinkedIn](https://www.linkedin.com/in/evgeniia-liasheva-36a379132/)
