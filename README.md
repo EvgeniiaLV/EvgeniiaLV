@@ -8,7 +8,6 @@
 ## Languages:
 <p align="left">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  height="40" width="40" />
 </p>
 
 ## Tools:
